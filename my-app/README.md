@@ -1,8 +1,6 @@
-# Getting Started with Create React App
-
 # Who said it? Garth Merengie or Alan Wake?
 
-This is a simple enough game.
+This is a simple enough game. You're given a quote and have to click on a button to guess who said it. Click on New Round to get a new quote.
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), uses [MaterialUI](https://mui.com/material-ui/react-button/#complex-button) components, and is hosted on [fly.io](https://fly.io/)
 
